@@ -6,8 +6,3 @@ Our project is centered around developing a sophisticated T20 Score Predictor, a
 A XgBoost based Cricket Score Predictor
 
 Dataset: https://www.kaggle.com/cricsheet-a-retrosheet-for-cricket?select=t20s
-
-Information about Group Members 
-"Imran Ali 20SW006"
-"Niaz Hussain 20SW005"
-"Ali Haider 20SW040"
